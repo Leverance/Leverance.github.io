@@ -34,7 +34,7 @@
 }
 
 html {
-    font-family: sans-serif;
+    font-family: Source Sans Pro,sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0,0,0,0)
@@ -45,7 +45,7 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section {
 }
 
 body {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-family: -apple-system,Source Sans Pro,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
     font-size: 1rem;
     line-height: 1.5;
     color: #212529;
@@ -4265,7 +4265,7 @@ a.close.disabled {
     z-index: 1070;
     display: block;
     margin: 0;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-family: -apple-system,Source Sans Pro,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -4383,7 +4383,7 @@ a.close.disabled {
     left: 0;
     z-index: 1060;
     max-width: 276px;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-family: -apple-system,Source Sans Pro,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -5876,7 +5876,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
 }
 
 .text-monospace {
-    font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace!important
+    font-family: Source Sans Pro,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace!important
 }
 
 .text-justify {
@@ -6668,13 +6668,13 @@ body.page-template-template-contact .site-header_menu-content {
 }
 
 body {
-    font-family: neue-haas-grotesk-text,sans-serif;
+    font-family: Source Sans Pro,neue-haas-grotesk-text,sans-serif;
     font-weight: 400;
     font-style: normal
 }
 
 .big-text p,.gray-bg_title span,.info-text,h1,h2,h3,h4,h5,h6,input:not(.wpcf7-submit),select,textarea,ul#page-menu li a {
-    font-family: freight-display-pro,serif;
+    font-family: Source Sans Pro,freight-display-pro,serif;
     font-weight: 900;
     font-style: normal;
     text-transform: none
@@ -6734,7 +6734,7 @@ p:last-child {
 }
 
 .number-value {
-    font-family: freight-display-pro,serif;
+    font-family: Source Sans Pro,freight-display-pro,serif;
     font-weight: 900;
     font-style: normal;
     text-transform: none;
@@ -6753,7 +6753,7 @@ p:last-child {
 section.next-page_home .next_page-content .title .pre-title,section.next-page_inner .next_page-content .title .pre-title {
     line-height: 42px;
     font-size: 14px;
-    font-family: neue-haas-grotesk-text,sans-serif;
+    font-family: Source Sans Pro,neue-haas-grotesk-text,sans-serif;
     font-weight: 400;
     font-style: normal;
     text-transform: none;
